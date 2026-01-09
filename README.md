@@ -10,7 +10,10 @@ A critical SysAdmin task is ensuring that data survives hardware failure. I move
 Virtual Hardware Provisioning
 SCSI Controller Management: I manually added and configured multiple SCSI Controllers to isolate OS, Data, and Log traffic for maximum throughput.
 
-Hardware Expansion: Provisioned additional 100GB VHDX virtual hard drives and "hot-plugged" them into the VM's virtual motherboard via Hyper-V Settings.
+Hardware Expansion: Provisioned additional 10GB VHDX virtual hard drives and "hot-plugged" them into the VM's virtual motherboard via Hyper-V Settings.
+
+<img width="1056" height="982" alt="Screenshot 2026-01-09 154215" src="https://github.com/user-attachments/assets/2aa1ff3f-3fb8-467f-8405-497967d986c4" />
+
 
 Disk Initialization & Mirroring
 GPT Initialization: Used the GPT (GUID Partition Table) partition style for all new disks to ensure support for modern volume sizes and partition integrity.
