@@ -43,7 +43,8 @@ Database Relocation: Successfully performed a physical move of the HR_Database f
 
 Path Validation: Verified the SQL Server engine could successfully read and write to the new path: D:\SQLData\Data\.
 
-![Uploading HRDBfilesmovestoDdataDrive.png…]()
+<img width="592" height="348" alt="HRDBfilesmovestoDdataDrive" src="https://github.com/user-attachments/assets/6e6d7e89-9dff-4cad-bc5a-6b9aac5e5544" />
+
 
 
 
