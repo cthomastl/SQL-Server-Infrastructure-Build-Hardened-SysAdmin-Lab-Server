@@ -46,6 +46,7 @@ Path Validation: Verified the SQL Server engine could successfully read and writ
 ![Uploading HRDBfilesmovestoDdataDrive.png…]()
 
 
+
 5. SysAdmin Skillset Summary
 Virtualization: Expertise in Hyper-V, SCSI Controller management, and VHDX provisioning.
 
