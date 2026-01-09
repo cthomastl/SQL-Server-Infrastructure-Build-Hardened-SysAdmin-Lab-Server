@@ -12,7 +12,7 @@ SCSI Controller Management: I manually added and configured multiple SCSI Contro
 
 Hardware Expansion: Provisioned additional 10GB VHDX virtual hard drives and "hot-plugged" them into the VM's virtual motherboard via Hyper-V Settings.
 
-<img width="1056" height="982" alt="Screenshot 2026-01-09 154215" src="https://github.com/user-attachments/assets/2aa1ff3f-3fb8-467f-8405-497967d986c4" />
+<img width="600" height="600" alt="Screenshot 2026-01-09 154215" src="https://github.com/user-attachments/assets/2aa1ff3f-3fb8-467f-8405-497967d986c4" />
 
 
 Disk Initialization & Mirroring
